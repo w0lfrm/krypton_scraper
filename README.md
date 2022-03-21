@@ -65,6 +65,7 @@
     <li><a href="#todo">TODO</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#faqs">FAQs</a></li>
   </ol>
 </details>
 
@@ -127,6 +128,11 @@ See the [open issues](https://github.com/w0lfrm/krypton_scraper/issues) for a fu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- FAQ -->
+## FAQS
+1. Is my `api_id` and `api_hash` safe ?
+A) We do not collect your credentials, if u feel that we collect your data use HTTP debugger and you can watch what request does the executable file makes.
 
 <!-- LICENSE -->
 ## License
