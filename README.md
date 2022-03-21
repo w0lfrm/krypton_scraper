@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/w0lfrm/krypton_scrape">
+  <a href="https://github.com/w0lfrm/krypton_scraper">
     <img src="images/header.gif" alt="Logo" width="600" height="240" style="border-radius 90%">
   </a>
 
