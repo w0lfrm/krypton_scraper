@@ -123,7 +123,7 @@ To get a local copy up and running follow these simple example steps.
 - [ ] Add Multi-threading to speed up scraping
 
 
-See the [open issues](https://github.com/w0lfrm/krypton_scrape/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/w0lfrm/krypton_scraper/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
