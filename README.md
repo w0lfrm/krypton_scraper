@@ -63,9 +63,9 @@
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#todo">TODO</a></li>
+    <li><a href="#faqs">FAQs</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#faqs">FAQs</a></li>
   </ol>
 </details>
 
@@ -132,7 +132,10 @@ See the [open issues](https://github.com/w0lfrm/krypton_scraper/issues) for a fu
 <!-- FAQ -->
 ## FAQS
 1. Is my `api_id` and `api_hash` safe ?
-A) We do not collect your credentials, if u feel that we collect your data use HTTP debugger and you can watch what request does the executable file makes.
+* We do not collect your credentials, if u feel that we collect your data use HTTP debugger and you can watch what request does the executable file makes.
+
+2. How do I fix "`database is locked`" error ?
+* Just close the application and delete `bruh.session` file from directory and restart the application.
 
 <!-- LICENSE -->
 ## License
