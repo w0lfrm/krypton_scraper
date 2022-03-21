@@ -158,5 +158,5 @@ Project Link: [https://github.com/w0lfrm/krypton_scrape](https://github.com/w0lf
 [issues-shield]: https://img.shields.io/github/issues/w0lfrm/krypton_scraper.svg?style=for-the-badge
 [issues-url]: https://github.com/w0lfrm/krypton_scraper/issues
 [license-shield]: https://img.shields.io/github/license/w0lfrm/krypton_scraper.svg?style=for-the-badge
-[license-url]: https://github.com/w0lfrm/krypton_scraper/blob/master/LICENSE.txt
+[license-url]: https://github.com/w0lfrm/krypton_scraper/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
