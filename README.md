@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/w0lfrm/krypton_scraper">
-    <img src="images/header.gif" alt="Logo" width="500" height="120" style="border-radius 90%">
+    <img src="images/header.gif" alt="Logo">
   </a>
 
 <h3 align="center">Krypton Scraper</h3>
