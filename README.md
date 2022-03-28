@@ -151,7 +151,7 @@ Distributed under the GPL-3.0 License. See [LICENSE.txt](https://github.com/w0lf
 
 w0lfrm - [@w0lfrm](https://t.me/w0lfrm) - telegram
 
-Project Link: [https://github.com/w0lfrm/krypton_scrape](https://github.com/w0lfrm/krypton_scraper)
+Project Link: [https://github.com/w0lfrm/krypton_scraper](https://github.com/w0lfrm/krypton_scraper)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
